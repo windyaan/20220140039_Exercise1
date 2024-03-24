@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    padding: 60px;
+}
+img {
+    border-radius: 30px;
+    padding: 20px;
+}
+html {
+    background-image: url('https://static.republika.co.id/uploads/images/inpicture_slide/langit-malam-berbintang-ilustrasi-_170807101226-949.jpg');
+    background-size: cover;
+}
+fieldset{
+    background-color: black;
+    border-radius: 20px;
+}
+h1 {color:white;}
+h2 {font-style: oblique;}   
+p {color: white;
+    font-size: 15px;
+    text-indent:23px;
+    text-align: justify;
+    display:none;}
+ #tampilan {
+    display: flex;
+    justify-content: center;
+}
